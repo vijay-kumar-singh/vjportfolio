@@ -1,3 +1,4 @@
+this is my personal portfolio application
 This component was bootstrapped with [Direflow](https://direflow.io).
 
 npm install
